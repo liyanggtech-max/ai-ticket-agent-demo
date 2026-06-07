@@ -1,6 +1,6 @@
 # AI Agent Incident Ticket Generator
 
-这是一个用于面试展示的 AI 应用开发 Demo。  
+这是一个 AI 应用开发 Demo。  
 应用场景是：将用户自然语言描述的系统故障，自动整理成结构化运维工单。
 
 ## 功能
